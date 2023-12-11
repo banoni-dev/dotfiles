@@ -1,0 +1,35 @@
+2023-12-05 00:00:48.001 [info] Getting Manifest... github.copilot
+2023-12-05 00:00:48.010 [info] Installing extension: github.copilot
+2023-12-05 00:00:48.811 [info] Getting Manifest... github.copilot-chat
+2023-12-05 00:00:48.961 [info] Installing extension: github.copilot-chat github.copilot
+2023-12-05 00:00:55.690 [info] Extension signature is verified: github.copilot-chat
+2023-12-05 00:00:55.870 [info] Extracted extension to file:///home/ahmed/.vscode/extensions/github.copilot-chat-0.10.2: github.copilot-chat
+2023-12-05 00:00:55.874 [info] Renamed to /home/ahmed/.vscode/extensions/github.copilot-chat-0.10.2
+2023-12-05 00:00:55.878 [info] Extracting extension completed. github.copilot-chat
+2023-12-05 00:01:00.827 [info] Extension signature is verified: github.copilot
+2023-12-05 00:01:01.031 [info] Extracted extension to file:///home/ahmed/.vscode/extensions/github.copilot-1.140.0: github.copilot
+2023-12-05 00:01:01.038 [info] Renamed to /home/ahmed/.vscode/extensions/github.copilot-1.140.0
+2023-12-05 00:01:01.042 [info] Extracting extension completed. github.copilot
+2023-12-05 00:01:01.055 [info] Extension installed successfully: github.copilot-chat
+2023-12-05 00:01:01.056 [info] Extension installed successfully: github.copilot
+2023-12-05 00:01:01.138 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-05 00:16:12.302 [info] Getting Manifest... feiskyer.chatgpt-copilot
+2023-12-05 00:16:12.309 [info] Installing extension: feiskyer.chatgpt-copilot
+2023-12-05 00:16:15.541 [info] Extension signature is verified: feiskyer.chatgpt-copilot
+2023-12-05 00:16:15.578 [info] Extracted extension to file:///home/ahmed/.vscode/extensions/feiskyer.chatgpt-copilot-4.2.0: feiskyer.chatgpt-copilot
+2023-12-05 00:16:15.582 [info] Renamed to /home/ahmed/.vscode/extensions/feiskyer.chatgpt-copilot-4.2.0
+2023-12-05 00:16:15.585 [info] Extracting extension completed. feiskyer.chatgpt-copilot
+2023-12-05 00:16:15.593 [info] Extension installed successfully: feiskyer.chatgpt-copilot
+2023-12-05 00:16:15.666 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

@@ -1,0 +1,90 @@
+2023-12-03 10:43:11.232 [info] update#setState idle
+2023-12-03 10:43:41.241 [info] update#setState checking for updates
+2023-12-03 10:43:41.245 [info] update#setState idle
+2023-12-03 11:43:41.265 [info] update#setState checking for updates
+2023-12-03 11:43:41.266 [info] update#setState idle
+2023-12-03 12:43:41.289 [info] update#setState checking for updates
+2023-12-03 12:43:41.293 [info] update#setState idle
+2023-12-03 13:43:41.313 [info] update#setState checking for updates
+2023-12-03 13:43:41.317 [info] update#setState idle
+2023-12-03 15:34:31.642 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 31468]: crashed with code 15 and reason 'killed'
+2023-12-03 15:34:31.680 [info] Extension host with pid 31479 exited with code: 0, signal: unknown.
+2023-12-03 15:36:37.654 [info] Extension host with pid 14200 exited with code: 0, signal: unknown.
+2023-12-03 16:03:27.030 [info] update#setState checking for updates
+2023-12-03 16:03:27.033 [info] update#setState idle
+2023-12-03 17:03:27.034 [info] update#setState checking for updates
+2023-12-03 17:03:27.037 [info] update#setState idle
+2023-12-03 19:18:14.371 [info] update#setState checking for updates
+2023-12-03 19:18:14.372 [info] update#setState idle
+2023-12-03 20:18:15.141 [info] update#setState checking for updates
+2023-12-03 20:18:15.141 [info] update#setState idle
+2023-12-03 21:18:15.142 [info] update#setState checking for updates
+2023-12-03 21:18:15.143 [info] update#setState idle
+2023-12-03 22:18:15.144 [info] update#setState checking for updates
+2023-12-03 22:18:15.145 [info] update#setState idle
+2023-12-03 23:18:15.146 [info] update#setState checking for updates
+2023-12-03 23:18:15.147 [info] update#setState idle
+2023-12-04 14:19:30.142 [info] update#setState checking for updates
+2023-12-04 14:19:30.144 [info] update#setState idle
+2023-12-04 16:07:17.753 [info] update#setState checking for updates
+2023-12-04 16:07:17.756 [info] update#setState idle
+2023-12-04 18:37:54.677 [info] update#setState checking for updates
+2023-12-04 18:37:54.678 [info] update#setState idle
+2023-12-04 20:02:58.504 [info] update#setState checking for updates
+2023-12-04 20:02:58.506 [info] update#setState idle
+2023-12-04 21:02:58.505 [info] update#setState checking for updates
+2023-12-04 21:02:58.506 [info] update#setState idle
+2023-12-04 22:02:58.506 [info] update#setState checking for updates
+2023-12-04 22:02:58.507 [info] update#setState idle
+2023-12-04 23:02:58.507 [info] update#setState checking for updates
+2023-12-04 23:02:58.511 [info] update#setState idle
+2023-12-05 00:02:58.511 [info] update#setState checking for updates
+2023-12-05 00:02:58.522 [info] update#setState idle
+2023-12-05 08:41:37.921 [info] update#setState checking for updates
+2023-12-05 08:41:37.967 [info] update#setState idle
+2023-12-05 11:10:56.042 [info] update#setState checking for updates
+2023-12-05 11:10:56.043 [info] update#setState idle
+2023-12-05 18:07:39.079 [info] update#setState checking for updates
+2023-12-05 18:07:39.079 [info] update#setState idle
+2023-12-05 19:28:00.523 [info] update#setState checking for updates
+2023-12-05 19:28:00.524 [info] update#setState idle
+2023-12-05 20:28:00.527 [info] update#setState checking for updates
+2023-12-05 20:28:00.528 [info] update#setState idle
+2023-12-05 21:28:00.527 [info] update#setState checking for updates
+2023-12-05 21:28:00.528 [info] update#setState idle
+2023-12-05 22:28:00.529 [info] update#setState checking for updates
+2023-12-05 22:28:00.531 [info] update#setState idle
+2023-12-05 23:28:00.534 [info] update#setState checking for updates
+2023-12-05 23:28:00.535 [info] update#setState idle
+2023-12-06 08:57:01.606 [info] update#setState checking for updates
+2023-12-06 08:57:01.607 [info] update#setState idle
+2023-12-06 13:34:56.852 [info] update#setState checking for updates
+2023-12-06 13:34:56.862 [info] update#setState idle
+2023-12-06 14:40:56.154 [info] update#setState checking for updates
+2023-12-06 14:40:56.157 [info] update#setState idle
+2023-12-06 15:40:57.087 [info] update#setState checking for updates
+2023-12-06 15:40:57.090 [info] update#setState idle
+2023-12-06 18:21:55.583 [info] update#setState checking for updates
+2023-12-06 18:21:55.587 [info] update#setState idle
+2023-12-06 19:43:24.332 [info] update#setState checking for updates
+2023-12-06 19:43:24.504 [info] update#setState idle
+2023-12-06 19:44:34.241 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 19:44:54.745 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 19:53:05.267 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 19:53:05.534 [error] CodeWindow: renderer process gone (reason: killed, code: 9)
+2023-12-06 19:53:06.216 [info] Extension host with pid 69341 exited with code: 0, signal: unknown.
+2023-12-06 19:53:07.217 [error] Extension host with pid 69341 still exists, forcefully killing it...
+2023-12-06 20:11:51.633 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 69326]: crashed with code 139 and reason 'crashed'
+2023-12-06 21:02:55.884 [info] update#setState checking for updates
+2023-12-06 21:02:56.006 [info] update#setState idle
+2023-12-06 22:02:56.012 [info] update#setState checking for updates
+2023-12-06 22:02:56.129 [info] update#setState idle
+2023-12-06 22:23:16.999 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 22:23:51.649 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 22:24:32.823 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 22:25:08.765 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 22:26:00.333 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 22:26:41.540 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 22:28:32.443 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 22:30:13.293 [warning] No ptyHost heartbeat after 6 seconds
+2023-12-06 22:32:59.144 [warning] No ptyHost heartbeat after 6 seconds

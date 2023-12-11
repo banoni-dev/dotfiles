@@ -1,0 +1,13 @@
+2023-12-03 15:15:34.384 [error] electron #59: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2023-12-03 19:18:16.379 [error] electron #161: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-03 19:18:19.028 [error] electron #162: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-04 14:19:33.976 [error] electron #228: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_IO_SUSPENDED
+2023-12-04 14:19:41.325 [error] electron #229: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-05 08:08:45.409 [error] electron #375: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2023-12-05 10:43:04.786 [error] electron #389: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2023-12-06 13:02:29.360 [error] electron #492: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2023-12-06 13:34:58.868 [error] electron #500: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-06 13:35:02.400 [error] electron #501: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-06 19:53:07.910 [error] electron #554: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-06 20:11:48.803 [error] electron #555: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-06 20:11:58.098 [error] electron #556: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED

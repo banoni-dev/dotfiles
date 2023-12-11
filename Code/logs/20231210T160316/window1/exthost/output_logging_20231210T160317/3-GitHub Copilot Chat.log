@@ -1,0 +1,70 @@
+2023-12-10T15:03:21.108Z [INFO] [auth] GitHub login failed
+2023-12-10T15:03:21.109Z [ERROR] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2023-12-10T15:03:38.248Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T15:03:38.847Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T15:03:38.852Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T15:03:38.858Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T15:03:38.859Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T15:03:38.859Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T15:06:09.727Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-12-10T15:06:09.727Z [INFO] [chat fetch] modelMaxTokenWindow 8192
+2023-12-10T15:06:09.727Z [INFO] [chat fetch] chat model gpt-3.5
+2023-12-10T15:06:10.770Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1040 ms
+2023-12-10T15:06:11.133Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-12-10T15:06:11.134Z [INFO] [streamChoices] request done: headerRequestId: [f6c5b5d5-e0cf-493b-920d-a91bb1d6bc86] model deployment ID: [x338b9c029b38]
+2023-12-10T15:06:11.137Z [ERROR] [asyncCompute] Failed to compute async parser based result: (Error) Unrecognized language: json
+2023-12-10T15:06:11.138Z [ERROR] [asyncCompute] Failed to compute async parser based result: (Error) Unrecognized language: json
+2023-12-10T15:06:11.786Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-12-10T15:06:11.786Z [INFO] [chat fetch] modelMaxTokenWindow 8192
+2023-12-10T15:06:11.786Z [INFO] [chat fetch] chat model gpt-3.5
+2023-12-10T15:06:12.420Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 633 ms
+2023-12-10T15:06:13.582Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-12-10T15:06:13.583Z [INFO] [streamChoices] request done: headerRequestId: [8a1f2f27-007a-4a70-9661-34bf52be5496] model deployment ID: [x338b9c029b38]
+2023-12-10T15:28:38.908Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T15:28:39.491Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T15:28:39.491Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T15:53:39.531Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T15:53:40.287Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T15:53:40.287Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T16:48:49.261Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T16:48:49.778Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T16:48:49.779Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T17:13:50.675Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T17:13:51.236Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T17:13:51.236Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T17:38:51.276Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T17:38:51.833Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T17:38:51.834Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T18:23:00.400Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T18:23:03.181Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T18:23:03.182Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T18:48:03.212Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T18:48:03.858Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T18:48:03.858Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T19:13:03.887Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T19:13:04.711Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T19:13:04.711Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T19:38:04.746Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T19:38:05.619Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T19:38:05.619Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T20:03:05.657Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T20:03:06.566Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T20:03:06.566Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T20:28:06.599Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T20:28:07.158Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T20:28:07.159Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T20:53:07.162Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T20:53:07.683Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T20:53:07.684Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T21:18:07.722Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T21:18:08.340Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T21:18:08.340Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T21:43:08.374Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T21:43:10.176Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T21:43:10.177Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T22:08:10.203Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T22:08:10.905Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T22:08:10.905Z [INFO] [auth] Got Copilot token for banoni-dev
+2023-12-10T22:33:10.910Z [INFO] [auth] Logged in as banoni-dev
+2023-12-10T22:33:11.697Z [INFO] [chat] copilot token chat_enabled: true
+2023-12-10T22:33:11.698Z [INFO] [auth] Got Copilot token for banoni-dev

@@ -1,0 +1,56 @@
+2023-12-02 22:18:41.941 [info] Getting Manifest... vscodevim.vim
+2023-12-02 22:18:41.949 [info] Installing extension: vscodevim.vim
+2023-12-02 22:18:45.065 [info] Extension signature is verified: vscodevim.vim
+2023-12-02 22:18:45.107 [info] Extracted extension to file:///home/ahmed/.vscode/extensions/vscodevim.vim-1.27.1: vscodevim.vim
+2023-12-02 22:18:45.114 [info] Renamed to /home/ahmed/.vscode/extensions/vscodevim.vim-1.27.1
+2023-12-02 22:18:45.115 [info] Extracting extension completed. vscodevim.vim
+2023-12-02 22:18:45.122 [info] Extension installed successfully: vscodevim.vim
+2023-12-02 22:18:45.202 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-02 22:18:57.762 [info] Getting Manifest... ms-python.python
+2023-12-02 22:18:57.766 [info] Installing extension: ms-python.python
+2023-12-02 22:18:59.099 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-02 22:18:59.350 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-12-02 22:19:13.047 [info] Extension signature is verified: ms-python.python
+2023-12-02 22:19:14.691 [info] Extracted extension to file:///home/ahmed/.vscode/extensions/ms-python.python-2023.20.0: ms-python.python
+2023-12-02 22:19:14.700 [info] Renamed to /home/ahmed/.vscode/extensions/ms-python.python-2023.20.0
+2023-12-02 22:19:14.706 [info] Extracting extension completed. ms-python.python
+2023-12-02 22:19:14.792 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-02 22:19:30.028 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-12-02 22:19:32.320 [info] Extracted extension to file:///home/ahmed/.vscode/extensions/ms-python.vscode-pylance-2023.11.10: ms-python.vscode-pylance
+2023-12-02 22:19:32.355 [info] Renamed to /home/ahmed/.vscode/extensions/ms-python.vscode-pylance-2023.11.10
+2023-12-02 22:19:32.358 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-02 22:19:32.366 [info] Extension installed successfully: ms-python.python
+2023-12-02 22:19:32.366 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-02 22:19:32.441 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-02 22:19:42.556 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2023-12-02 22:19:42.563 [info] Installing extension: dsznajder.es7-react-js-snippets
+2023-12-02 22:19:48.497 [info] Extension signature is verified: dsznajder.es7-react-js-snippets
+2023-12-02 22:19:48.660 [info] Extracted extension to file:///home/ahmed/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3: dsznajder.es7-react-js-snippets
+2023-12-02 22:19:48.666 [info] Renamed to /home/ahmed/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+2023-12-02 22:19:48.668 [info] Extracting extension completed. dsznajder.es7-react-js-snippets
+2023-12-02 22:19:48.674 [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+2023-12-02 22:19:48.677 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ahmed/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

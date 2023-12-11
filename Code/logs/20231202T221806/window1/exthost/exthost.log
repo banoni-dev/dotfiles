@@ -1,0 +1,27 @@
+2023-12-02 22:18:07.920 [info] Extension host with pid 28297 started
+2023-12-02 22:18:07.920 [info] Skipping acquiring lock for /home/ahmed/.config/Code/User/workspaceStorage/753ce8b48d08fddedb06073680d31892.
+2023-12-02 22:18:08.073 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-02 22:18:08.082 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-12-02 22:18:08.178 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-02 22:18:08.306 [info] Eager extensions activated
+2023-12-02 22:18:08.308 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-02 22:18:08.312 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-02 22:18:11.308 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-12-02 22:18:19.794 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-02 22:18:45.232 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2023-12-02 22:18:46.377 [error] Error: ENOENT: no such file or directory, open '/home/ahmed/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-12-02 22:19:48.745 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2023-12-02 22:21:25.534 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-02 22:21:25.595 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-02 22:32:41.136 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-12-02 22:52:19.886 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-12-02 22:52:20.888 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-12-02 23:02:59.753 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-02 23:02:59.778 [error] Error: ENOENT: no such file or directory, open '/home/ahmed/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-12-02 23:02:59.782 [info] Extension host with pid 28297 exiting with code 0

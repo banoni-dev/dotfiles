@@ -1,0 +1,13 @@
+2023-12-03 10:43:12.177 [info] Extension host with pid 14200 started
+2023-12-03 10:43:12.213 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-03 10:43:12.224 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-03 10:43:12.244 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-03 10:43:12.283 [info] Eager extensions activated
+2023-12-03 10:43:12.297 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 10:43:12.299 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 10:43:12.308 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 10:43:12.454 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2023-12-03 10:43:13.534 [error] Error: ENOENT: no such file or directory, open '/home/ahmed/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-12-03 15:36:37.642 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-03 15:36:37.654 [error] Error: ENOENT: no such file or directory, open '/home/ahmed/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-12-03 15:36:37.654 [info] Extension host with pid 14200 exiting with code 0

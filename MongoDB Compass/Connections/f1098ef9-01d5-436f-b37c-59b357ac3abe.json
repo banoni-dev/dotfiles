@@ -1,0 +1,13 @@
+{
+  "connectionInfo": {
+    "id": "f1098ef9-01d5-436f-b37c-59b357ac3abe",
+    "lastUsed": "2023-12-10T10:30:13.504Z",
+    "connectionOptions": {
+      "connectionString": "mongodb://localhost:27017/",
+      "oidc": {
+        "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+      }
+    }
+  },
+  "_id": "f1098ef9-01d5-436f-b37c-59b357ac3abe"
+}

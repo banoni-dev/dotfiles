@@ -1,0 +1,13 @@
+{
+  "connectionInfo": {
+    "id": "3de344c2-27ac-4cdc-9650-de01460cc047",
+    "lastUsed": "2023-12-10T15:13:49.237Z",
+    "connectionOptions": {
+      "connectionString": "mongodb+srv://ahmed@cluster0.kl9utui.mongodb.net/",
+      "oidc": {
+        "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+      }
+    }
+  },
+  "_id": "3de344c2-27ac-4cdc-9650-de01460cc047"
+}

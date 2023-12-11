@@ -1,0 +1,94 @@
+<application>
+  <component name="FileEditorProviderManager"><![CDATA[{
+  "selectedProviders": {
+    "text-editor,android-manifest": "text-editor"
+  }
+}]]></component>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ATTACHED_TOOL_WINDOW.DEFAULT.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
+    "ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SAVED_ANDROID_NPW_ASKED_LANGUAGE": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Java",
+    "SAVED_ANDROID_PACKAGE": "com.example",
+    "SAVED_RENDER_LANGUAGE": "Java",
+    "SPLIT_EDITOR_MODE_/home/ahmed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_/home/ahmed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_/home/ahmed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_sign_up.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_/home/ahmed/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_sign_up2.xml": "SPLIT",
+    "Source Code Editor With PreviewLayout": "Editor only",
+    "TextEditorWithPreview.SplitterProportionKey": "0.76039386",
+    "android.sdk.path": "/home/ahmed/Android/Sdk",
+    "appcds.runOnSecondStart": "AI-231.9392.1.2311.11076708-45bb4c649253aaa42a5c82d16a98bde76896e63bf461ab8f83429455b88a148c",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "AI-231.9392.1.2311.11076708",
+    "experimental.ui.used.once": "true",
+    "file.gist.reindex.count": "4",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "AI-231.9392.1.2311.11076708",
+    "ide.updates.previous.build.number": "AI-231.9392.1.2311.11076708",
+    "ignore.essential-highlighting.mode": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "231-1.9.10-release-459-AS9392.1.2311.11076708",
+    "kotlin.lastUpdateCheck": "1701892836166",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "AI-231.9392.1.2311.11076708",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

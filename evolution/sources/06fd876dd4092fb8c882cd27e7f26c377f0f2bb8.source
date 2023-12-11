@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=banoni.bro@gmail.com
+Enabled=true
+Parent=f1c7f40cc1fcd2de76045753553a006dee5c6975
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=18312f64485661610b5075fbde35f3a4bd4e2403
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=banoni.bro@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

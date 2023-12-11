@@ -1,0 +1,3 @@
+2023-12-03 10:43:11.619 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-03 10:43:13.536 [error] ENOENT: no such file or directory, open '/home/ahmed/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/ahmed/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-12-03 10:43:14.404 [info] [perf] Render performance baseline is 16ms

@@ -1,0 +1,23 @@
+2023-12-10 16:03:17.393 [info] Extension host with pid 64756 started
+2023-12-10 16:03:17.393 [info] Skipping acquiring lock for /home/ahmed/.config/Code/User/workspaceStorage/81261bff1d19bba1f6993655f217e4f0.
+2023-12-10 16:03:17.526 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-10 16:03:17.534 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-12-10 16:03:17.574 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-10 16:03:17.659 [info] Eager extensions activated
+2023-12-10 16:03:17.662 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 16:03:17.668 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 16:03:17.687 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 16:03:18.034 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 16:03:19.150 [error] Error: ENOENT: no such file or directory, open '/home/ahmed/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-12-10 16:03:20.094 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-12-10 16:03:20.175 [info] ExtensionService#_doActivateExtension feiskyer.chatgpt-copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 16:03:20.220 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 16:03:20.329 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 16:03:20.820 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-10 16:03:57.612 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-12-10 16:03:57.680 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-10 16:04:22.046 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2023-12-10 16:04:22.048 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2023-12-10 16:04:22.053 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2023-12-10 16:04:22.095 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-12-10 16:04:22.108 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
