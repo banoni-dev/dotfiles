@@ -1,0 +1,36 @@
+require('basic.lazy')
+require('basic.base')
+require('basic.keymap')
+-- --
+-- require('neodev').setup({
+-- 	-- 	-- add any options here, or leave empty to use the default settings
+-- })
+--
+require('plugins.mason')
+require('plugins.lsp')
+require('plugins.conform').config()
+require('plugins.telescope').config()
+require('plugins.bookmark').config()
+-- require('plugins.lint').config()
+require('plugins.cmp').config()
+require('plugins.treesitter')
+require('plugins.template-string')
+require('plugins.autotag')
+require('plugins.toggle-term')
+require('plugins.indent-blankline')
+require('plugins.alternate-toggler')
+require('plugins.surround')
+require('plugins.wildfire')
+require('plugins.treesj')
+require('plugins.todo-comment')
+require('plugins.legendary')
+require('plugins.lualine')
+require('plugins.noise')
+require('plugins.copilot')
+require('plugins.dap')
+require('plugins.biome')
+
+require('lsp.typescript').config()
+require('lsp.rust')
+
+vim.opt.clipboard:append('unnamedplus')
